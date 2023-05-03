@@ -11,6 +11,7 @@ body {
 	padding: 50px;
 	color: #fff;
 	text-align: center;
+	border-radius: 25px;
 }
 .wrapper h2 {
 	text-transform: uppercase;
